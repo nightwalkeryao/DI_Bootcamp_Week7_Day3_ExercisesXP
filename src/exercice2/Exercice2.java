@@ -2,10 +2,6 @@ package exercice2;
 
 import static exercice2.Tri.selectionSort;
 
-/**
- *
- * @author kernel-mk
- */
 public class Exercice2 {
 
     public static void main(String[] args) {
